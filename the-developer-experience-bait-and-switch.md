@@ -62,9 +62,9 @@ JavaScript 是 Web 世界的二氧化碳。
 只不过现在争论的是 JavaScript；或者更确切地说，
 争论的是为解决我们的问题[使用的 JS 数量](https://httparchive.org/reports/state-of-javascript#bytesJs)。
 
-![2011年到今天 JS 数量的变化趋势图：稳步增加，2017年初有一个下降区间](https://httparchive.org/reports/state-of-javascript#bytesJs)
+![2011年到今天 JS 数量的变化趋势图：稳步增加，2017年初有一个下降区间](https://infrequently.org/wp-content/uploads/2018/09/http_archive_js_bytes_chart-1-768x393.png)
 
-中等移动站点的 JS 已经从 2011 年的 50KB 增加到今天的 350KB 以上。解压后大约 2MB 的脚本。
+[中等移动站点的 JS 已经从 2011 年的 50KB 增加到今天的 350KB 以上](https://httparchive.org/reports/state-of-javascript#bytesJs)。解压后大约 2MB 的脚本。
 
 我之前概述了为什么在浏览器中做任何事情，[JavaScript 都是最昂贵的方法](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/)。
 这与 [正在发展的计算方式](https://www.youtube.com/watch?v=4bZvq3nodf4)
